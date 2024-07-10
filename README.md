@@ -1,2 +1,2 @@
 # Hugo Rochelle
-This repository is my portfolio, linked with my website
+This repository is to host my portfolio
